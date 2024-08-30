@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhu2003&label=Profile%20views&color=0e75b6&style=flat" alt="bhu2003" /> </p>
 
-- 🔭 I’m currently working on **Event management system**
+- 🔭 I’m currently working on **Liquid Neural Network (LNN) Based Deep Learning Approach for Change Detection of Infrastructure & its Prediction Using Satellite Images**
 
 - 🌱 I’m currently learning **Java,Python,Fullstack**
 
